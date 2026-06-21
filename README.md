@@ -32,15 +32,15 @@ This project implements a Machine Learning classification model using the K-Near
 * Total Samples: 150
 * Features: 4
 * Classes:
-    Setosa
-    Versicolor
-    Virginica
+    Setosa,
+    Versicolor,
+    Virginica.
 
 ## Results
 
 The model achieved:
 
-F1 Score: 1.0
+F1 Score: 1.0, 
 Accuracy: 100%
 
 The confusion matrix showed that all test samples were classified correctly.
